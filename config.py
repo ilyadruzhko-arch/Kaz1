@@ -1,6 +1,6 @@
-TOKEN = "7448428135:AAEQ8pVtDqSnct3iV8-tJeHmhmEoDXsM" # Токен бота
-CHANNEL_ID = -10022262175 # ID канала со ставками
-ADMINS = [73015428, 6402893] # ID админов
+TOKEN = "7998731263:AAGlnvH1SrClO94zWZ6K2qbRZOxRsQP4pgU" # Токен бота
+CHANNEL_ID = -1003165659350 # ID канала со ставками
+ADMINS = [653231861] # ID админов
 BET_URL = "http://t.me/CryptoBot?start=IVNj8kxr2c" # Ссылка на счет
 CRYPTOPAY_TOKEN = "250485:AAcj63sTSOB848fmfzXYb3GyeTn7igkHZ" # Тут CryptoPay токен
 WIN_IMAGE = "win.jpeg" # Название файла с картинкой выигрыша
@@ -11,4 +11,4 @@ NEWS_LINK = "https://t.me/skladmaterialov" # Ссылка на новостно�
 OWNER_LINK = "https://t.me/skladmaterialov" # Ссылка на владельца/поддержку
 PEREHOD_LINK = "https://t.me/cube_bet_cas" # Ссылка на переходник
 BETS_LINK = "https://t.me/skladmaterialov" # Ссылка на канал ставок
-CASINO_NAME = "skladmaterialov" # Название казино
+CASINO_NAME = "Noskam" # Название казино
