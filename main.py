@@ -1,7 +1,8 @@
 # ==============================
 # | RECODED BY @skladmaterialov |
 # ==============================
-
+import sys
+sys.path.append('/app')
 import re
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram import types, Dispatcher, Bot, executor
